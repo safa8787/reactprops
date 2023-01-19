@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.carte img:hover{
+transform: scale(1.1);
+}
